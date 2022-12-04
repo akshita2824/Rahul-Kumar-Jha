@@ -2,7 +2,7 @@ import random
 import array
 
 
-MAX_LEN = int(input())
+MAX_LEN = int(input("Enter the size of password required : "))
 
 
 DIGITS = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
